@@ -14,4 +14,7 @@ An outline for achieving 1,000 hours in a subject.
 - Play custom sheet music on guitar and piano
 
 ## Resources
-`Goal #: source`
+`Goal #: source [[topic]]`
+- (1) : "Head First HTML5 Programming" by Eric Freeman and Elisabeth Robson [HTML5]
+- (1) : "CSS3: The Missing Manual" by Matthew MacDonald [CSS3]
+- (1) : "Eloquent Javascript"by Marijn Haverbek [Javascript]
