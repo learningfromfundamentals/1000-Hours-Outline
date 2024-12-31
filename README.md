@@ -1,10 +1,15 @@
 # 1000-Hours-Outline
 An outline for achieving 1,000 hours in a subject. 
+- [goal](## Goal)
+- [outcome](## Outcome)
+- [resources](## Resources)
+
 
 ## Goal 
 `1,0000 Hours of [topic](topic #)`
 * 1,000 Hours of Front-End (1)
 * 1,000 Hours of Drawing and Music Theory (2)
+* 1,000 Hours of Development Environment (3)
 
 ## Outcome 
 `define desired outcomes`
@@ -18,3 +23,8 @@ An outline for achieving 1,000 hours in a subject.
 - (1) : "Head First HTML5 Programming" by Eric Freeman and Elisabeth Robson [HTML5]
 - (1) : "CSS3: The Missing Manual" by Matthew MacDonald [CSS3]
 - (1) : "Eloquent Javascript"by Marijn Haverbek [Javascript]
+
+
+## TODO:
+`topic #: tasks [[completion]]`
+- (3): scroll in secondary terminal vim
