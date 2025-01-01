@@ -1,5 +1,6 @@
 # Javascript Notes
-
+## Questions
+Why does set-url need to set in order to push? (git)
 ## Pre-Requisites 
     - git,html,css.
 
